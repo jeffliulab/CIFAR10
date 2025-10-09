@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+.vscode
+datasets/downloads
+checkpoints
+hcp_files
+Analysis_Plots
